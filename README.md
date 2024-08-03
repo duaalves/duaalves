@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil  👋
 
 
-Meu nome é Ruan e estou aprendendo a programar.
+Meu nome é Edu do grau e estou aprendendo a programar.
 
 - Estou estudando na **Alura**.
 - Utilizo esse espaço para a minha organização.
