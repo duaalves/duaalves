@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil  👋
 
-<!--
-**duaalves/duaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Ruan e estou aprendendo a programar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na **Alura**.
+- Utilizo esse espaço para a minha organização.
+
+### Meu contato 
+
+![image](https://github.com/user-attachments/assets/a0bbdd3e-b338-4efd-af2c-ed45f5b19db9)
+
+
+@ruanzitolima
+
+![](https://media1.tenor.com/m/kWejy2kDcTwAAAAC/office.gif)
